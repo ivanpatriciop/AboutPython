@@ -1,0 +1,11 @@
+  * {
+      margin: 0px;
+      padding: 0px;
+      font-family: sans-serif;
+  }
+  
+  div.main-conteiner {
+      width: 970px;
+      min-height: 800px;
+      background-color: aqua;
+  }
